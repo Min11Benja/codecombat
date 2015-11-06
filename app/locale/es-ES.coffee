@@ -596,11 +596,11 @@ module.exports = nativeDescription: "español (ES)", englishDescription: "Spanis
     cat_title: "Jefe Artesano"
 #    cat_blurb: "Maestro del Aire"
     josh_title: "Diseñador de Videojuegos"
-#    josh_blurb: "Floor Is Lava"
+#    josh_blurb: "El piso es Lava"
     jose_title: "Música"
-#    jose_blurb: "Taking Off"
+#    jose_blurb: "Despegar"
     retrostyle_title: "Illustración"
-#    retrostyle_blurb: "RetroStyle Games"
+#    retrostyle_blurb: "Juegos estylo Retro"
 
   teachers:
     more_info: "Información para profesores"
