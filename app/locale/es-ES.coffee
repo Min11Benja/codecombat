@@ -594,7 +594,7 @@ module.exports = nativeDescription: "español (ES)", englishDescription: "Spanis
     matt_title: "Co-Fundador"
     matt_blurb: "Ciclista"
     cat_title: "Jefe Artesano"
-#    cat_blurb: "Airbender"
+#    cat_blurb: "Maestro del Aire"
     josh_title: "Diseñador de Videojuegos"
 #    josh_blurb: "Floor Is Lava"
     jose_title: "Música"
