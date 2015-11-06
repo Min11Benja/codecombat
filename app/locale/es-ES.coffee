@@ -513,7 +513,7 @@ module.exports = nativeDescription: "español (ES)", englishDescription: "Spanis
     regeneration: "Regeneración"
     range: "Alcance" # As in "attack or visual range"
     blocks: "Bloqueo" # As in "this shield blocks this much damage"
-#    backstab: "Backstab" # As in "this dagger does this much backstab damage"
+#    backstab: "Puñalada" # As in "this dagger does this much backstab damage"
     skills: "Habilidades"
 #    attack_1: "Otorga" #As in deals this much damage?
 #    attack_2: "de la lista"
