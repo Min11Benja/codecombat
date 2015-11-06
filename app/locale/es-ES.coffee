@@ -528,7 +528,7 @@ module.exports = nativeDescription: "español (ES)", englishDescription: "Spanis
     restricted_to_certain_heroes: "Solo ciertos heroes pueden jugar este nivel."
 
   skill_docs:
-#    writable: "writable" # Hover over "attack" in Your Skills while playing a level to see most of this
+#    writable: "grabable" # Hover over "attack" in Your Skills while playing a level to see most of this
     read_only: "Solo lectura"
     action: "Acción"
     spell: "Hechizo"
