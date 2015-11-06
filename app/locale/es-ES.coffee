@@ -515,12 +515,12 @@ module.exports = nativeDescription: "español (ES)", englishDescription: "Spanis
     blocks: "Bloqueo" # As in "this shield blocks this much damage"
 #    backstab: "Backstab" # As in "this dagger does this much backstab damage"
     skills: "Habilidades"
-#    attack_1: "Deals"
-#    attack_2: "of listed"
-#    attack_3: "weapon damage."
-#    health_1: "Gains"
-#    health_2: "of listed"
-#    health_3: "armor health."
+#    attack_1: "Otorga" #As in deals this much damage?
+#    attack_2: "de la lista"
+#    attack_3: "Daño de arma"
+#    health_1: "Beneficios"
+#    health_2: "de la lista"
+#    health_3: "salud de armadura."
     speed_1: "Se mueve a"
     speed_2: "metros por segundo."
     available_for_purchase: "Disponible para Comprar" # Shows up when you have unlocked, but not purchased, a hero in the hero store
